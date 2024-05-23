@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="cartes-skylanders-giants-crusher" size="1.000000 1.392211" />
+    <ImageTarget name="chop_chop_giants_stats" size="1.000000 1.408964" />
+    <ImageTarget name="skylanders-cards-zoom_1445x_copy" size="1.000000 1.400411" />
+    <ImageTarget name="skylanders-cards-ignitor_1445x_copy" size="1.000000 1.406061" />
+  </Tracking>
+</QCARConfig>
